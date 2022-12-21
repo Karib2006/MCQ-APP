@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lucida Sans Typewriter', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    transition: 3s;
+}
+
+
+#mcqdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.check_btn{
+
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#checked{
+    background-color: rgb(0, 255, 64);
+}
+
+#marks{
+    color: rgb(11, 180, 20);
+}
+
+
+#heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+#query{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+#times, #btn{
+    
+}
